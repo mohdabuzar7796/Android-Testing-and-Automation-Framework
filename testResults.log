@@ -1,0 +1,10 @@
+2024-08-10T12:34:56.789Z [INFO]: Executing Test Case: TC001
+2024-08-10T12:34:57.123Z [INFO]: Executing Test Statement: Enter username - sendKeys
+2024-08-10T12:34:57.456Z [INFO]: Executing Test Statement: Click login button - click
+2024-08-10T12:34:58.789Z [INFO]: Test Case TC001 PASSED
+2024-08-10T12:34:59.123Z [INFO]: Executing Test Case: TC002
+2024-08-10T12:35:00.456Z [INFO]: Executing Test Statement: Enter invalid password - sendKeys
+2024-08-10T12:35:01.789Z [INFO]: Executing Test Statement: Click login button - click
+2024-08-10T12:35:02.123Z [ERROR]: Assertion Failed: Expected Invalid credentials, but got Unexpected error
+2024-08-10T12:35:02.456Z [INFO]: Test Case TC002 FAILED
+2024-08-10T12:35:03.789Z [INFO]: Test suite execution completed.
